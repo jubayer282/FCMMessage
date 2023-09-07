@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83840655349",
+    "project_id": "fcmessage-86b94",
+    "storage_bucket": "fcmessage-86b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83840655349:android:a8da5d88922b1fa1adcabc",
+        "android_client_info": {
+          "package_name": "com.jubayer.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83840655349-8rssme86i10ene72682g01d8183piskk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfYHLqAKcfAHKbrUE0Bkb_2hNGuYkD2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83840655349-8rssme86i10ene72682g01d8183piskk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
